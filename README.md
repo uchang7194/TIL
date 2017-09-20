@@ -10,4 +10,5 @@
 
 ## Vue
 1. [MVVM](./TIL_VUE/MVVM.md)
-1. [Vue vs React](./TIL_VUE/Vue_vs_React.md)
+2. [Vue vs React](./TIL_VUE/Vue_vs_React.md)
+3. [directive](./TIL_VUE/directive.md)

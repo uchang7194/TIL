@@ -1,5 +1,5 @@
 ## 사용자 정의 directive
-[예제](./TIL_EXAM/Vue/directive/)
+[예제](../TIL_EXAM/Vue/directive/)
 ### 사용방법
 ```javascript
 Vue.directive('USING_NAME', callback | {
